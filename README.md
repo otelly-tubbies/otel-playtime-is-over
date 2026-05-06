@@ -23,6 +23,17 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 * [Weaver Project (GitHub)](https://github.com/open-telemetry/weaver)
 * [Weaver Examples (GitHub)](https://github.com/open-telemetry/opentelemetry-weaver-examples/blob/main/basic/README.md)
 
+### Zero-code Instrumentation
+
+* [Suppressing Zero-Code Instrumentation: Java](https://opentelemetry.io/docs/zero-code/java/agent/disable/)
+* [Suppressing Zero-Code Instrumentation: Python](https://opentelemetry.io/docs/zero-code/python/configuration/#disabling-specific-instrumentations)
+* [.NET Zero-Code Instrumentation Agent settings](https://opentelemetry.io/docs/zero-code/dotnet/configuration/#additional-settings)
+
+### Miscellaneous
+
+* [OTel Declarative Configuration](https://opentelemetry.io/docs/languages/sdk-configuration/declarative-configuration/)
+* [OTel Spec Compliance Matrix](https://github.com/open-telemetry/opentelemetry-specification/blob/main/spec-compliance-matrix.md#declarative-configuration)
+
 ## Slides
 
 You can find a PDF copy of our slides [here](https://dt-url.net/oz2393y).
