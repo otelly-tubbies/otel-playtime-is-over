@@ -10,6 +10,10 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 
 ## Resources
 
+### OTel Collector
+
+* [So You Built A Custom Collector with the OpenTelemetry Collector Builder…Now What? (blog)](https://medium.com/womenintechnology/so-you-built-a-custom-collector-with-the-opentelemetry-collector-builder-now-what-6588952ee6c5)
+  
 ### OpAMP
 * [OpenTelemetry OpAMP for You and Me (blog)](https://dt-url.net/pk039j0)
 * [OpAMP Spec (GitHub)](https://github.com/open-telemetry/opamp-spec)
