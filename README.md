@@ -2,7 +2,7 @@
 
 This is the companion repository for the talk by Adriana Villela and Josh Lee, OpenTelemetry: Playtime is Over. It contains links to various resources cited in the talk.
 
-## Socials
+## Adriana & Josh on the Interwebs
 
 * [Adriana on the Interwebs](https://bio.site/adrianavillela)
 * [Geeking Out with Adriana Villela (podcast)](https://bio.site/geekingout)
@@ -11,14 +11,17 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 ## Resources
 
 ### OpAMP
-* [Blog; OpAMP for You and Me](https://dt-url.net/pk039j0)
+* [OpenTelemetry OpAMP for You and Me (blog)](https://dt-url.net/pk039j0)
+* [OpAMP Spec (GitHub)](https://github.com/open-telemetry/opamp-spec)
 * [OTel OpAMP on CNCF Slack](https://cloud-native.slack.com/archives/C02J58HR58R)
 
 ### Weaver
 
-* [Blog: Let's Learn About OpenTelemetry Weaver Together!](https://dt-url.net/ta039z4)
-* [Blog: Weaver from zero to hero: a getting started guide](https://telemetrydrops.com/blog/weaver-from-zero-to-hero/#step-4-enforce-the-contract-in-ci)
+* [Let's Learn About OpenTelemetry Weaver Together! (blog)](https://dt-url.net/ta039z4)
+* [Weaver from zero to hero: a getting started guide (blog)](https://telemetrydrops.com/blog/weaver-from-zero-to-hero/#step-4-enforce-the-contract-in-ci)
 * [OTel Weaver on CNCF Slack](https://cloud-native.slack.com/archives/C0697EXNTL3)
+* [Weaver Project (GitHub)](https://github.com/open-telemetry/weaver)
+* [Weaver Examples (GitHub)](https://github.com/open-telemetry/opentelemetry-weaver-examples/blob/main/basic/README.md)
 
 ## Slides
 
