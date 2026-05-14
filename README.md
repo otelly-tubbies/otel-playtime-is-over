@@ -19,6 +19,13 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 * [OpAMP Spec (GitHub)](https://github.com/open-telemetry/opamp-spec)
 * [OTel OpAMP on CNCF Slack](https://cloud-native.slack.com/archives/C02J58HR58R)
 
+### OTel Arrow
+* [Let's Learn About OTel Arrow Together! (blog)](https://dt-url.net/zz039ik)
+* [Apache Arrow Framework](https://arrow.apache.org/)
+* [OTel Arrow Exporter](https://github.com/open-telemetry/opentelemetry-collector-contrib/blob/main/exporter/otelarrowexporter/README.md)
+* [How to Configure the OTel Arrow Exporter in the OpenTelemetry Collector (blog)](https://oneuptime.com/blog/post/2026-02-06-otel-arrow-exporter-opentelemetry-collector/view)
+* [OTel Arrow Dataflow Engine](https://github.com/open-telemetry/otel-arrow/tree/main/rust/otap-dataflow)
+
 ### Weaver
 
 * [Let's Learn About OpenTelemetry Weaver Together! (blog)](https://dt-url.net/ta039z4)
