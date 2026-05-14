@@ -8,6 +8,14 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 * [Geeking Out with Adriana Villela (podcast)](https://bio.site/geekingout)
 * [Josh on the Interwebs](https://www.joshuamlee.com/about/)
 
+## Slides
+
+You can find a PDF copy of our slides [here](https://dt-url.net/oz2393y).
+
+## Video
+
+Stay tuned for the video of our talk!
+
 ## Resources
 
 ### OTel Collector
@@ -53,11 +61,3 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 
 * [OTel Declarative Configuration](https://opentelemetry.io/docs/languages/sdk-configuration/declarative-configuration/)
 * [OTel Spec Compliance Matrix](https://github.com/open-telemetry/opentelemetry-specification/blob/main/spec-compliance-matrix.md#declarative-configuration)
-
-## Slides
-
-You can find a PDF copy of our slides [here](https://dt-url.net/oz2393y).
-
-## Video
-
-Stay tuned for the video of our talk!
