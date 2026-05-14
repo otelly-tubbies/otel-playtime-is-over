@@ -18,6 +18,15 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 * [OpenTelemetry OpAMP for You and Me (blog)](https://dt-url.net/pk039j0)
 * [OpAMP Spec (GitHub)](https://github.com/open-telemetry/opamp-spec)
 * [OTel OpAMP on CNCF Slack](https://cloud-native.slack.com/archives/C02J58HR58R)
+* [OpAMP Client Capabilities](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/cmd/opampsupervisor/specification)
+
+
+#### OpAMP Servers
+* [Go OpAMP Server from OpenTelemetry](https://github.com/open-telemetry/opamp-go)
+* [Python OpAMP Server by Adam Gardner](https://github.com/agardnerIT/opamp-server-py)
+* [Elixir OpAMP Server by Jacob Aronoff](https://github.com/jaronoff97/opamp-elixir/tree/main)
+* [Bindplane (commercial offering)](https://bindplane.com)
+
 
 ### OTel Arrow
 * [Let's Learn About OTel Arrow Together! (blog)](https://dt-url.net/zz039ik)
