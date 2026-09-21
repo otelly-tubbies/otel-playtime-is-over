@@ -10,12 +10,12 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 
 ## Slides
 
-You can find a PDF copy of the slides from KCD Czech & Slovak 2026 [here](https://dt-url.net/oz2393y).
-You can find a PDF copy of the slides from Observability Poland 2026 [here](https://dt-url.net/oz2393y).
+* KCD Czech & Slovak 2026 [here](https://dt-url.net/oz2393y).
+* Observability Poland 2026 [here]([https://dt-url.net/oz2393y](https://drive.google.com/file/d/1bFBozojG89XFjbjFMdM2sxXPY9PTkOSh/view?usp=drive_link)).
 
 ## Video
 
-[![Watch the video from KCD Czech & Slovak]([https://youtube.com](https://www.youtube.com/live/xzD4cvBGTpQ?si=58wibNVUuuBW4ul9))]([https://youtu.be](https://www.youtube.com/live/xzD4cvBGTpQ?si=58wibNVUuuBW4ul9))
+[![Watch the video](https://img.youtube.com/vi/xzD4cvBGTpQ?si=58wibNVUuuBW4ul9/0.jpg)](https://www.youtube.com/watch?v=xzD4cvBGTpQ?si=58wibNVUuuBW4ul9)
 
 ## Resources
 
