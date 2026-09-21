@@ -4,17 +4,18 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 
 ## Adriana & Josh on the Interwebs
 
-* [Adriana on the Interwebs](https://bio.site/adrianavillela)
-* [Geeking Out with Adriana Villela (podcast)](https://bio.site/geekingout)
+* [Adriana on the Interwebs](https://adrianavillela.com/socials)
+* [Geeking Out with Adriana Villela (podcast)](https://adrianavillela.com/podcast)
 * [Josh on the Interwebs](https://www.joshuamlee.com/about/)
 
 ## Slides
 
-You can find a PDF copy of our slides [here](https://dt-url.net/oz2393y).
+You can find a PDF copy of the slides from KCD Czech & Slovak 2026 [here](https://dt-url.net/oz2393y).
+You can find a PDF copy of the slides from Observability Poland 2026 [here](https://dt-url.net/oz2393y).
 
 ## Video
 
-Stay tuned for the video of our talk!
+[![Watch the video from KCD Czech & Slovak]([https://youtube.com](https://www.youtube.com/live/xzD4cvBGTpQ?si=58wibNVUuuBW4ul9))]([https://youtu.be](https://www.youtube.com/live/xzD4cvBGTpQ?si=58wibNVUuuBW4ul9))
 
 ## Resources
 
