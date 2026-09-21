@@ -15,6 +15,8 @@ This is the companion repository for the talk by Adriana Villela and Josh Lee, O
 
 ## Video
 
+Watch the video from KCD Czech & Slovak 2026
+
 [![Watch the video](https://img.youtube.com/vi/xzD4cvBGTpQ/hqdefault.jpg)](https://www.youtube.com/live/xzD4cvBGTpQ?si=58wibNVUuuBW4ul9&t=1524s)
 
 ## Resources
